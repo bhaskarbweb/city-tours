@@ -1,2 +1,2 @@
 # city-tours
-city tours project using react js
+city tours project using react js for practice
